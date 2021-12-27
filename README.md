@@ -1,0 +1,2 @@
+# Flask_mining_visualization
+基于Flask的Python全国招聘岗位就业可视化系统
