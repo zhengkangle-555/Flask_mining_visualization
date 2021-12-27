@@ -1,0 +1,102 @@
+body {
+	margin: 0;
+	background: #100c2a;
+}
+
+#title {
+	position: absolute;
+	width: 40%;
+	height: 10%;
+	top: 0%;
+	left: 30%;
+	/* background: #666666; */
+	color: white;
+	font-size: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#time {
+	position: absolute;
+	/* width: 30%; */
+	height: 5%;
+	top: 2%;
+	right: 2%;
+	color: #FFFFFF;
+	font-size: 16px;
+	/* background: green; */
+}
+
+#c1 {
+	position: absolute;
+	width: 40%;
+	height: 30%;
+	top: 10%;
+	left: 30%;
+	/* background: #777777; */
+}
+
+.num {
+	width: 25%;
+	float: left;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: gold;
+	font-size: 18px;
+}
+.txt {
+	width: 25%;
+	float: left;
+	font-family: serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 15px;
+	color: white;
+}
+#c2 {
+	position: absolute;
+	width: 40%;
+	height: 55%;
+	top: 40%;
+	left: 30%;
+	background: #100c2a;
+}
+
+#l1 {
+	position: absolute;
+	width: 30%;
+	height: 50%;
+	top: 2%;
+	left: 0%;
+	background: #100c2a;
+}
+
+#l2 {
+	position: absolute;
+	width: 30%;
+	height: 55%;
+	top: 52%;
+	left: 0%;
+	background: #100c2a;
+}
+
+#r1 {
+	position: absolute;
+	width: 30%;
+	height: 45%;
+	top: 8%;
+	right: 0%;
+	background: #100c2a;
+}
+
+#r2 {
+	position: absolute;
+	width: 30%;
+	height: 50%;
+	top: 50%;
+	right: 0%;
+	background: #100c2a;
+}
